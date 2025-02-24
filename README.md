@@ -46,7 +46,8 @@ I enjoy:
 ---
 
 ## 📫 Let's Connect!  
-**LinkedIn**:https://www.linkedin.com/in/diya-kumar0305?originalSubdomain=in&original_referer=
+**LinkedIn**:https://www.linkedin.com/in/diya0510
+
 📧 **Email**: diya585704@gmail.com  
 
 
