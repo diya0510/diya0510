@@ -23,6 +23,8 @@ I enjoy:
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diya0510&layout=compact&theme=radical)
 
+![Profile views](https://komarev.com/ghpvc/?username=diya0510&color=blue)
+
 ---
 
 ## 💻 Tech Stack & Skills  
