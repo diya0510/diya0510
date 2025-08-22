@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Diya 
 
-🚀 **AI | ML | Deep Learning | Computer Vision | NLP Enthusiast**  
+🚀 **AI | ML | Deep Learning | Computer Vision | Generative AI**  
 🎓 **BE in CSE (AI & ML Specialization)**  
 💡 Passionate about building intelligent systems that make a real-world impact  
 
@@ -11,16 +11,24 @@ I'm an AI & ML enthusiast who loves working on projects that bridge the gap betw
 From **computer vision** to **speech and language processing**, I'm constantly exploring new innovations in AI.  
 
 I enjoy:  
+✔️ Developing **LLM Based Applications** for real-world applications
 ✔️ Developing **deep learning models** for real-world applications  
 ✔️ Exploring **OCR, NLP, and Reinforcement Learning**  
 ✔️ Working on **edge AI and cloud-based AI solutions**  
 
 ---
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=diya0510&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diya0510&layout=compact&theme=radical)
+
+---
 
 ## 💻 Tech Stack & Skills  
 🔹 **Languages**: Python, C++, Java  
-🔹 **AI/ML Frameworks**: TensorFlow, Keras, OpenCV, Scikit-Learn  
-🔹 **Databases**: MySQL  
+🔹 **AI/ML Frameworks**: TensorFlow, Keras, OpenCV, Scikit-Learn,LangChain,LangGraph,LangSmith  
+🔹 **Databases**: MySQL ,SQLSrverManagement System
 🔹 **Backend**: Flask  
 🔹 **Cloud & DevOps**: Oracle Cloud Infrastructure (OCI)  
 
@@ -45,10 +53,16 @@ I enjoy:
 
 ---
 
+### 🏆 Achievements
+![Holopin](https://holopin.me/diya0510)
+
 ## 📫 Let's Connect!  
+
 **LinkedIn**:https://www.linkedin.com/in/diya0510
 
 📧 **Email**: diya585704@gmail.com  
+
+
 
 
 
