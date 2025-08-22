@@ -17,10 +17,10 @@ I enjoy:
 ✔️ Working on **edge AI and cloud-based AI solutions**  
 
 ---
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=diya0510&show_icons=true&theme=radical)
 
-### 🔥 Most Used Languages
+## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diya0510&layout=compact&theme=radical)
 
 ---
@@ -53,8 +53,6 @@ I enjoy:
 
 ---
 
-### 🏆 Achievements
-![Holopin](https://holopin.me/diya0510)
 
 ## 📫 Let's Connect!  
 
